@@ -5,11 +5,7 @@ using System.Threading.Tasks;
 
 namespace GitConsoleDemo
 {
-    public class Program
+    public class Class
     {
-        public static void Main(string[] args)
-        {
-			//changes to project v1.0
-        }
     }
 }
