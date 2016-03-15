@@ -11,6 +11,8 @@ namespace GitConsoleDemo
         {
 			//changes to project v1.0
 			//v1.1 changes
+
+			//changes from Visual Studio 2015
         }
     }
 }
