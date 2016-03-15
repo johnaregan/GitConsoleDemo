@@ -7,5 +7,6 @@ namespace GitConsoleDemo
 {
     public class Class
     {
+		//Additional 1.1 changes
     }
 }

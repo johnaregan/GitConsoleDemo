@@ -10,6 +10,7 @@ namespace GitConsoleDemo
         public static void Main(string[] args)
         {
 			//changes to project v1.0
+			//v1.1 changes
         }
     }
 }
